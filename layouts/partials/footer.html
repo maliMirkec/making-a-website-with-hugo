@@ -1,0 +1,7 @@
+<footer>
+  <nav>
+    {{ range $.Site.Data.social }}
+      <a href="{{ .href }}" target="_blank">{{ .title }}</a>
+    {{ end }}
+  </nav>
+</footer>

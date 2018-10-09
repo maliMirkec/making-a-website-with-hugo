@@ -1,0 +1,8 @@
+<header>
+  <nav>
+    {{ $currentPage := . }}
+    {{ range sort .Site.Menus.main.ByWeight }}
+      <a{{ if $currentPage.IsMenuCurrent "main" . }} class="active"{{ end }} href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>
