@@ -11,3 +11,5 @@ In the third leason we will learn:
 - How to add a new post
 - How to add a post layout
 - How to add a category layout
+
+<!--more-->

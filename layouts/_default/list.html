@@ -1,16 +1,18 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
-<ul>
-  {{ range .Paginator.Pages }}
-    <li>
-      {{ .Title }}
+<section class="list">
+  {{ range .Paginator.Pages.ByDate }}
+    <article class="list__item">
+      <div>
+        {{ .Summary }}
+      </div>
       <p>
         <a href="{{ .URL }}">Read more</a>
       </p>
-    </li>
+    </article>
   {{ end }}
-</ul>
+</section>
 
 {{ template "_internal/pagination.html" . }}
 

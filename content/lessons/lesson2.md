@@ -13,3 +13,5 @@ In the second leason we will learn:
 - How to reuse layout code
 - How to add navigation
 - How to use variables
+
+<!--more-->
