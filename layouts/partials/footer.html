@@ -1,6 +1,6 @@
 <footer>
   <nav>
-    {{ range $.Site.Data.social }}
+    {{ range $.Site.Data.social.list }}
       <a href="{{ .href }}" target="_blank">{{ .title }}</a>
     {{ end }}
   </nav>
