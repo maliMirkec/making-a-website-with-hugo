@@ -1,7 +1,7 @@
 ---
 title: "Lesson 1"
 date: 2018-10-09T10:03:31+02:00
-draft: true
+draft: false
 ---
 
 # Lesson 1
