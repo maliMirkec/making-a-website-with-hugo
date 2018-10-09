@@ -7,17 +7,11 @@
     <title>{{ .Title }}</title>
   </head>
   <body>
-    <header>
-      <nav>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <a{{ if $currentPage.IsMenuCurrent "main" . }} class="active"{{ end }} href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{ end }}
-      </nav>
-    </header>
+    {{ partial "header.html" . }}
     <main>
       {{ block "main" . }}
       {{ end }}
     </main>
+    {{ partial "footer.html" . }}
   </body>
 </html>
