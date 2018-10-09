@@ -1,4 +1,5 @@
-- href: https://twitter.com/intent/follow?screen_name=GoHugoIO
-  title: Twitter
-- href: https://github.com/gohugoio/hugo
-  title: GitHub
+list:
+  - href: https://twitter.com/intent/follow?screen_name=GoHugoIO
+    title: Twitter
+  - href: https://github.com/gohugoio/hugo
+    title: GitHub

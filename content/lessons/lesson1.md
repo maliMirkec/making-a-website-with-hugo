@@ -8,8 +8,10 @@ draft: false
 
 In the first leason we will learn:
 
-- How to install Hugo
-- How to use Hugo CLI
-- How to add a homepage
-- How to add a new layout
-- How to use a local web server
+* How to install Hugo
+* How to use Hugo CLI
+* How to add a homepage
+* How to add a new layout
+* How to use a local web server
+
+<!--more-->
