@@ -6,6 +6,8 @@ draft: false
 
 # Lesson 1
 
+![Lesson 1 cover](/img/making-a-website-with-hugo-lesson1.jpg)
+
 In the first leason we will learn:
 
 * How to install Hugo

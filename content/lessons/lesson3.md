@@ -6,6 +6,8 @@ draft: false
 
 # Lesson 3
 
+![Lesson 3 cover](/img/making-a-website-with-hugo-lesson3.jpg)
+
 In the third leason we will learn:
 
 - How to add a new post
