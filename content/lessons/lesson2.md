@@ -6,6 +6,8 @@ draft: false
 
 # Lesson 2
 
+![Lesson 2 cover](/img/making-a-website-with-hugo-lesson2.jpg)
+
 In the second leason we will learn:
 
 - How to build your project

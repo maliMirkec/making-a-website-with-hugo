@@ -6,6 +6,8 @@ draft: false
 
 # Lesson 5
 
+![Lesson 5 cover](/img/making-a-website-with-hugo-lesson5.jpg)
+
 In the fifth leason we will learn:
 
 - How to add custom CSS
