@@ -1,0 +1,53 @@
+[[redirects]]
+  from = "/"
+  to = "https://www.silvestar.codes/side-projects/hugo/start/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/about/"
+  to = "https://www.silvestar.codes/side-projects/hugo/about/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/lesson1/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/1/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/lesson2/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/2/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/lesson3/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/3/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/lesson4/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/4/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lessons/lesson5/"
+  to = "https://www.silvestar.codes/side-projects/hugo/lessons/5/"
+  status = 301
+  force = true
