@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/"
-  to = "https://www.silvestar.codes/side-projects/hugo/start/"
+  to = "https://www.silvestar.codes/side-projects/hugo/"
   status = 301
   force = true
 
